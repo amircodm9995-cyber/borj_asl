@@ -1,0 +1,8 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "ir.borj.danesh",
+        "sha256_cert_fingerprints": ["D9:F6:8D:C9:C2:CF:39:74:CC:76:6A:7B:39:59:BB:0B:AB:C7:48:08:38:F7:4F:75:5F:B5:9F:A9:96:5E:A2:FD"]
+      }
+    }]
